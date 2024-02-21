@@ -4,7 +4,9 @@ import lombok.Setter;
 import org.tron.common.parameter.CommonParameter;
 
 /**
- * For developer only
+ * For 
+ * 
+ r only
  */
 public class VMConfig {
 

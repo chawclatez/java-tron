@@ -124,7 +124,7 @@ Fill in the private key of super representative address into the `localwitness` 
 
 ```
  localwitness = [
-    <your_private_key>
+    <eddeabc3cd356ad5e028d13827f96c9d7f69876c8de39ba8f5bc43b01b75c77e>
  ]
 ```
 
